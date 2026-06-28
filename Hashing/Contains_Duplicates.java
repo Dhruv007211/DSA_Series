@@ -103,3 +103,108 @@ class ContainsDuplicateBrute {
         return false;
     }
 }
+/*
+═══════════════════════════════════════════════════════════════
+OPTIMAL APPROACH (HashSet)
+═══════════════════════════════════════════════════════════════
+
+Description:
+
+Observation:
+
+HashSet stores only unique values.
+
+If current element already exists
+in HashSet,
+
+then duplicate is found.
+
+Steps:
+
+1. Create HashSet.
+2. Traverse array.
+3. Check if element already exists.
+4. If yes:
+      return true.
+5. Otherwise add element.
+6. If traversal completes:
+      return false.
+
+Dry Run:
+
+nums = [1,2,3,1]
+
+Set = {}
+
+--------------------------------
+
+num = 1
+
+Add 1
+
+Set = {1}
+
+--------------------------------
+
+num = 2
+
+Add 2
+
+Set = {1,2}
+
+--------------------------------
+
+num = 3
+
+Add 3
+
+Set = {1,2,3}
+
+--------------------------------
+
+num = 1
+
+Already Present ✅
+
+Return true
+
+═══════════════════════════════════════════════════════════════
+
+Time Complexity : O(N)
+
+Space Complexity : O(N)
+
+Pattern Used:
+→ Hashing
+→ HashSet
+→ Duplicate Detection
+
+Why Optimal?
+
+HashSet lookup is O(1).
+
+No need to compare every pair.
+
+═══════════════════════════════════════════════════════════════
+*/
+
+import java.util.HashSet;
+
+class ContainsDuplicateOptimal {
+
+    public boolean containsDuplicate(int[] nums) {
+
+        HashSet<Integer> set = new HashSet<>();
+
+        for(int num : nums) {
+
+            if(set.contains(num)) {
+                return true;
+            }
+
+            set.add(num);
+        }
+
+        return false;
+    }
+}

@@ -1,36 +1,47 @@
 /*
 ═══════════════════════════════════════════════════════════════
-📅 DAY 4
-📚 TOPIC : ARRAYS
+📅 DAY 11
+📚 TOPIC : STRINGS & HASHING
 
-❓ Ques 11.) Maximum Subarray Sum
+❓ Ques 23.) First Unique Character in a String
 
 Problem Statement:
 
-Given an integer array nums.
+Given a string s,
 
-Find the contiguous subarray
-which has the largest sum.
+return the index of the first
+non-repeating character.
 
-Return that maximum sum.
+If every character repeats,
+return -1.
 
 Example:
 
 Input:
 
-nums = [-2,1,-3,4,-1,2,1,-5,4]
+s = "leetcode"
 
 Output:
 
-6
+0
 
 Explanation:
 
-Subarray:
+'l' appears only once.
 
-[4,-1,2,1]
+--------------------------------
 
-Sum = 6
+Input:
+
+s = "loveleetcode"
+
+Output:
+
+2
+
+Explanation:
+
+'v' is the first unique character.
 
 ═══════════════════════════════════════════════════════════════
 BRUTE FORCE APPROACH
@@ -38,37 +49,28 @@ BRUTE FORCE APPROACH
 
 Description:
 
-Generate every possible subarray.
+For every character:
 
-For each subarray:
+1. Count its frequency.
+2. If frequency == 1
+   return its index.
 
-1. Calculate its sum.
-2. Compare with maximum sum.
-3. Update answer if larger.
-
-Finally return maximum sum.
+If no unique character exists,
+return -1.
 
 ═══════════════════════════════════════════════════════════════
 
 Dry Run:
 
-nums = [1,-2,3]
+s = "love"
 
-Subarrays:
+i = 0
 
-[1]       → 1
+'l'
 
-[1,-2]    → -1
+Frequency = 1
 
-[1,-2,3]  → 2
-
-[-2]      → -2
-
-[-2,3]    → 1
-
-[3]       → 3
-
-Maximum = 3
+Return 0
 
 ═══════════════════════════════════════════════════════════════
 
@@ -77,170 +79,123 @@ Time Complexity : O(N²)
 Space Complexity : O(1)
 
 Pattern Used:
-→ Subarray Generation
 → Nested Loops
+→ Frequency Counting
 
 ═══════════════════════════════════════════════════════════════
 */
 
-class MaximumSubarrayBrute {
+class FirstUniqueCharacterBrute {
 
-    public int maxSubArray(int[] nums) {
+    public int firstUniqChar(String s) {
 
-        int maxSum = Integer.MIN_VALUE;
+        for(int i = 0; i < s.length(); i++) {
 
-        for(int i = 0; i < nums.length; i++) {
+            int count = 0;
 
-            int sum = 0;
+            for(int j = 0; j < s.length(); j++) {
 
-            for(int j = i; j < nums.length; j++) {
+                if(s.charAt(i) == s.charAt(j)) {
 
-                sum += nums[j];
+                    count++;
+                }
+            }
 
-                maxSum = Math.max(maxSum, sum);
+            if(count == 1) {
+
+                return i;
             }
         }
 
-        return maxSum;
+        return -1;
     }
-}/* 
+}
+/*
 ═══════════════════════════════════════════════════════════════
-OPTIMAL APPROACH (Kadane's Algorithm)
+OPTIMAL APPROACH (Frequency Array)
 ═══════════════════════════════════════════════════════════════
 
 Description:
 
 Observation:
 
-If current sum becomes negative,
+Need frequency of every character.
 
-it will never help future subarrays.
+Steps:
 
-Why?
-
-Negative sum decreases future total.
-
-Therefore:
-
-Discard negative sum
-and start a new subarray.
-
-═══════════════════════════════════════════════════════════════
-
-Algorithm:
-
-1. Maintain currentSum.
-2. Add current element.
-3. Update maximum answer.
-4. If currentSum < 0:
-      currentSum = 0
+1. Count frequency of all characters.
+2. Traverse string again.
+3. Return first character
+   whose frequency is 1.
 
 ═══════════════════════════════════════════════════════════════
 
 Dry Run:
 
-nums = [-2,1,-3,4,-1,2,1,-5,4]
+s = "leetcode"
 
---------------------------------
+Pass 1
 
-num = -2
+l → 1
 
-currentSum = -2
+e → 3
 
-maxSum = -2
+t → 1
 
-currentSum < 0
+c → 1
 
-currentSum = 0
+o → 1
 
---------------------------------
+d → 1
 
-num = 1
+----------------------------
 
-currentSum = 1
+Pass 2
 
-maxSum = 1
+l
 
---------------------------------
+Frequency = 1
 
-num = -3
-
-currentSum = -2
-
-currentSum = 0
-
---------------------------------
-
-num = 4
-
-currentSum = 4
-
-maxSum = 4
-
---------------------------------
-
-num = -1
-
-currentSum = 3
-
---------------------------------
-
-num = 2
-
-currentSum = 5
-
-maxSum = 5
-
---------------------------------
-
-num = 1
-
-currentSum = 6
-
-maxSum = 6
-
---------------------------------
-
-Answer = 6
+Return 0
 
 ═══════════════════════════════════════════════════════════════
 
 Time Complexity : O(N)
 
-Space Complexity: O(1)
+Space Complexity : O(1)
 
 Pattern Used:
-→ Kadane's Algorithm
-→ Running Sum
+→ Hashing
+→ Frequency Array
 
 Why Optimal?
 
-Single Traversal
+Only two traversals.
 
-No extra space
+Frequency lookup is O(1).
 
 ═══════════════════════════════════════════════════════════════
 */
 
-class MaximumSubarrayOptimal {
+class FirstUniqueCharacterOptimal {
 
-    public int maxSubArray(int[] nums) {
+    public int firstUniqChar(String s) {
 
-        int currentSum = 0;
+        int[] freq = new int[26];
 
-        int maxSum = Integer.MIN_VALUE;
+        for(int i = 0; i < s.length(); i++) {
 
-        for(int num : nums) {
+            freq[s.charAt(i) - 'a']++;
+        }
 
-            currentSum += num;
+        for(int i = 0; i < s.length(); i++) {
 
-            maxSum = Math.max(maxSum, currentSum);
+            if(freq[s.charAt(i) - 'a'] == 1) {
 
-            if(currentSum < 0) {
-                currentSum = 0;
+                return i;
             }
         }
 
-        return maxSum;
+        return -1;
     }
 }
