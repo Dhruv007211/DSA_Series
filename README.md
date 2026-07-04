@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Dhruv007211/DSA_Series/tree/master/0056-merge-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv007211/DSA_Series/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv007211/DSA_Series/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv007211/DSA_Series/tree/master/0560-subarray-sum-equals-k) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Dhruv007211/DSA_Series/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
