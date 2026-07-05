@@ -48,4 +48,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Dhruv007211/DSA_Series/tree/master/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Dhruv007211/DSA_Series/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Dhruv007211/DSA_Series/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Dhruv007211/DSA_Series/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Dhruv007211/DSA_Series/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
