@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dhruv007211/DSA_Series/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dhruv007211/DSA_Series/tree/master/0056-merge-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv007211/DSA_Series/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv007211/DSA_Series/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dhruv007211/DSA_Series/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Dhruv007211/DSA_Series/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Dhruv007211/DSA_Series/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv007211/DSA_Series/tree/master/0424-longest-repeating-character-replacement) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dhruv007211/DSA_Series/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Dhruv007211/DSA_Series/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Dhruv007211/DSA_Series/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv007211/DSA_Series/tree/master/0424-longest-repeating-character-replacement) |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dhruv007211/DSA_Series/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dhruv007211/DSA_Series/tree/master/0056-merge-intervals) |
 ## Math
 |  |
