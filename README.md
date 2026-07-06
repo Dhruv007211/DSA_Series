@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhruv007211/DSA_Series/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Dhruv007211/DSA_Series/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dhruv007211/DSA_Series/tree/master/0056-merge-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv007211/DSA_Series/tree/master/0560-subarray-sum-equals-k) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhruv007211/DSA_Series/tree/master/0011-container-with-most-water) |
 | [0844-backspace-string-compare](https://github.com/Dhruv007211/DSA_Series/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Dhruv007211/DSA_Series/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Dhruv007211/DSA_Series/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
