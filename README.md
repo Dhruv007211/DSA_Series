@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dhruv007211/DSA_Series/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Dhruv007211/DSA_Series/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dhruv007211/DSA_Series/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Dhruv007211/DSA_Series/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv007211/DSA_Series/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv007211/DSA_Series/tree/master/0904-fruit-into-baskets) |
 | [1537-get-the-maximum-score](https://github.com/Dhruv007211/DSA_Series/tree/master/1537-get-the-maximum-score) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhruv007211/DSA_Series/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Dhruv007211/DSA_Series/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Dhruv007211/DSA_Series/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/Dhruv007211/DSA_Series/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Dhruv007211/DSA_Series/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv007211/DSA_Series/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv007211/DSA_Series/tree/master/0560-subarray-sum-equals-k) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Dhruv007211/DSA_Series/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dhruv007211/DSA_Series/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Dhruv007211/DSA_Series/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -81,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhruv007211/DSA_Series/tree/master/0011-container-with-most-water) |
 | [1537-get-the-maximum-score](https://github.com/Dhruv007211/DSA_Series/tree/master/1537-get-the-maximum-score) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dhruv007211/DSA_Series/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dhruv007211/DSA_Series/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
