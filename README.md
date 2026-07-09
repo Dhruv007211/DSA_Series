@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dhruv007211/DSA_Series/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dhruv007211/DSA_Series/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Dhruv007211/DSA_Series/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Dhruv007211/DSA_Series/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhruv007211/DSA_Series/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv007211/DSA_Series/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv007211/DSA_Series/tree/master/0904-fruit-into-baskets) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dhruv007211/DSA_Series/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruv007211/DSA_Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Dhruv007211/DSA_Series/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Dhruv007211/DSA_Series/tree/master/0088-merge-sorted-array) |
 | [0844-backspace-string-compare](https://github.com/Dhruv007211/DSA_Series/tree/master/0844-backspace-string-compare) |
 | [1537-get-the-maximum-score](https://github.com/Dhruv007211/DSA_Series/tree/master/1537-get-the-maximum-score) |
 ## Stack
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dhruv007211/DSA_Series/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dhruv007211/DSA_Series/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Dhruv007211/DSA_Series/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Dhruv007211/DSA_Series/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhruv007211/DSA_Series/tree/master/0169-majority-element) |
 ## Math
 |  |
