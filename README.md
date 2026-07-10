@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dhruv007211/DSA_Series/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhruv007211/DSA_Series/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv007211/DSA_Series/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Dhruv007211/DSA_Series/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv007211/DSA_Series/tree/master/0904-fruit-into-baskets) |
 | [1537-get-the-maximum-score](https://github.com/Dhruv007211/DSA_Series/tree/master/1537-get-the-maximum-score) |
 ## Hash Table
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv007211/DSA_Series/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Dhruv007211/DSA_Series/tree/master/0724-find-pivot-index) |
 ## Sorting
 |  |
 | ------- |
