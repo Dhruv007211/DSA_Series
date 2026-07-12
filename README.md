@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhruv007211/DSA_Series/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruv007211/DSA_Series/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Dhruv007211/DSA_Series/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Dhruv007211/DSA_Series/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dhruv007211/DSA_Series/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Dhruv007211/DSA_Series/tree/master/0075-sort-colors) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dhruv007211/DSA_Series/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Dhruv007211/DSA_Series/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
