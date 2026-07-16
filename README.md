@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dhruv007211/DSA_Series/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dhruv007211/DSA_Series/tree/master/0125-valid-palindrome) |
 | [0844-backspace-string-compare](https://github.com/Dhruv007211/DSA_Series/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Dhruv007211/DSA_Series/tree/master/0876-middle-of-the-linked-list) |
 | [1537-get-the-maximum-score](https://github.com/Dhruv007211/DSA_Series/tree/master/1537-get-the-maximum-score) |
 ## Stack
 |  |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhruv007211/DSA_Series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Dhruv007211/DSA_Series/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
