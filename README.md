@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Dhruv007211/DSA_Series/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Dhruv007211/DSA_Series/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -131,5 +132,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Dhruv007211/DSA_Series/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Dhruv007211/DSA_Series/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhruv007211/DSA_Series/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
