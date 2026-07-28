@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv007211/DSA_Series/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Dhruv007211/DSA_Series/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Dhruv007211/DSA_Series/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Dhruv007211/DSA_Series/tree/master/0844-backspace-string-compare) |
 ## Simulation
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Dhruv007211/DSA_Series/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dhruv007211/DSA_Series/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhruv007211/DSA_Series/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Dhruv007211/DSA_Series/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
