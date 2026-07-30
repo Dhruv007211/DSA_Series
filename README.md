@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Dhruv007211/DSA_Series/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv007211/DSA_Series/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Dhruv007211/DSA_Series/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Dhruv007211/DSA_Series/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv007211/DSA_Series/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhruv007211/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
 | [1537-get-the-maximum-score](https://github.com/Dhruv007211/DSA_Series/tree/master/1537-get-the-maximum-score) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Dhruv007211/DSA_Series/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Dhruv007211/DSA_Series/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Dhruv007211/DSA_Series/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Dhruv007211/DSA_Series/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Dhruv007211/DSA_Series/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -157,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Dhruv007211/DSA_Series/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Dhruv007211/DSA_Series/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
