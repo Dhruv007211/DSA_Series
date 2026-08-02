@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv007211/DSA_Series/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Dhruv007211/DSA_Series/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Dhruv007211/DSA_Series/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Dhruv007211/DSA_Series/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv007211/DSA_Series/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhruv007211/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
 | [1537-get-the-maximum-score](https://github.com/Dhruv007211/DSA_Series/tree/master/1537-get-the-maximum-score) |
@@ -107,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Dhruv007211/DSA_Series/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Dhruv007211/DSA_Series/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv007211/DSA_Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Dhruv007211/DSA_Series/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Dhruv007211/DSA_Series/tree/master/0877-stone-game) |
 | [1537-get-the-maximum-score](https://github.com/Dhruv007211/DSA_Series/tree/master/1537-get-the-maximum-score) |
 ## Recursion
 |  |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Dhruv007211/DSA_Series/tree/master/0901-online-stock-span) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Dhruv007211/DSA_Series/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
