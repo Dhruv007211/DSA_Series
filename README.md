@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Dhruv007211/DSA_Series/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Dhruv007211/DSA_Series/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Dhruv007211/DSA_Series/tree/master/0205-isomorphic-strings) |
+| [0394-decode-string](https://github.com/Dhruv007211/DSA_Series/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv007211/DSA_Series/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Dhruv007211/DSA_Series/tree/master/0844-backspace-string-compare) |
 ## Two Pointers
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhruv007211/DSA_Series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Dhruv007211/DSA_Series/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Dhruv007211/DSA_Series/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Dhruv007211/DSA_Series/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Dhruv007211/DSA_Series/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Dhruv007211/DSA_Series/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Dhruv007211/DSA_Series/tree/master/0844-backspace-string-compare) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Dhruv007211/DSA_Series/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dhruv007211/DSA_Series/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Dhruv007211/DSA_Series/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Dhruv007211/DSA_Series/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
