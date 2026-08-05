@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Dhruv007211/DSA_Series/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhruv007211/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
 | [1537-get-the-maximum-score](https://github.com/Dhruv007211/DSA_Series/tree/master/1537-get-the-maximum-score) |
+| [2404-most-frequent-even-element](https://github.com/Dhruv007211/DSA_Series/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhruv007211/DSA_Series/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/Dhruv007211/DSA_Series/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv007211/DSA_Series/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv007211/DSA_Series/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhruv007211/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
+| [2404-most-frequent-even-element](https://github.com/Dhruv007211/DSA_Series/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhruv007211/DSA_Series/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/Dhruv007211/DSA_Series/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dhruv007211/DSA_Series/tree/master/0169-majority-element) |
+| [2404-most-frequent-even-element](https://github.com/Dhruv007211/DSA_Series/tree/master/2404-most-frequent-even-element) |
 ## Binary Search
 |  |
 | ------- |
