@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv007211/DSA_Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhruv007211/DSA_Series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Dhruv007211/DSA_Series/tree/master/0169-majority-element) |
+| [0303-range-sum-query-immutable](https://github.com/Dhruv007211/DSA_Series/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Dhruv007211/DSA_Series/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv007211/DSA_Series/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Dhruv007211/DSA_Series/tree/master/0724-find-pivot-index) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Dhruv007211/DSA_Series/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv007211/DSA_Series/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Dhruv007211/DSA_Series/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhruv007211/DSA_Series/tree/master/1480-running-sum-of-1d-array) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Dhruv007211/DSA_Series/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/Dhruv007211/DSA_Series/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/Dhruv007211/DSA_Series/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
