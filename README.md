@@ -206,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dhruv007211/DSA_Series/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Dhruv007211/DSA_Series/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
