@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Dhruv007211/DSA_Series/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/Dhruv007211/DSA_Series/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv007211/DSA_Series/tree/master/0424-longest-repeating-character-replacement) |
+| [0709-to-lower-case](https://github.com/Dhruv007211/DSA_Series/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/Dhruv007211/DSA_Series/tree/master/0844-backspace-string-compare) |
 ## Two Pointers
 |  |
