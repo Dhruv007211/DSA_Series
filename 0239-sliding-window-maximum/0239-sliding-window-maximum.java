@@ -1,37 +1,22 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-
-        Deque<Integer> d = new ArrayDeque<>();
-        ArrayList<Integer> ans = new ArrayList<>();
-
-        for (int i = 0; i < nums.length; i++) {
-
-            // Window ke bahar wala index remove
-            while (!d.isEmpty() && d.peekFirst() <= i - k) {
-                d.pollFirst();
+  Deque<Integer>dq=new ArrayDeque<>();
+     int ans[]=new int [nums.length - k + 1];
+     int index=0;
+        for(int i=0;i<nums.length;i++){
+            while(!dq.isEmpty()&&dq.peekFirst()<=i-k){
+                dq.pollFirst();
             }
-
-            // Chhote elements remove
-            while (!d.isEmpty() && nums[d.peekLast()] <= nums[i]) {
-                d.pollLast();
-            }
-
-            // Index add karo
-            d.addLast(i);
-
-            if (i >= k - 1) {
-
-                // Front par maximum ka index
-                ans.add(nums[d.peekFirst()]);
-            }
+            while(!dq.isEmpty()&&nums[dq.peekLast()] <= nums[i]){
+                dq.pollLast();
         }
-
-        int[] result = new int[ans.size()];
-
-        for (int i = 0; i < ans.size(); i++) {
-            result[i] = ans.get(i);
-        }
-
-        return result;
+        dq.offerLast(i);
+        if(i>=k-1){
+            if(dq.isEmpty())ans[index++] = 0;
+            else{
+                 ans[index++] = nums[dq.peekFirst()];
+            }
+        }}
+        return ans;
     }
 }
