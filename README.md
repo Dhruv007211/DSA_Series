@@ -259,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Dhruv007211/DSA_Series/tree/master/2029-stone-game-ix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Dhruv007211/DSA_Series/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
