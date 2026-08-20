@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Dhruv007211/DSA_Series/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Dhruv007211/DSA_Series/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv007211/DSA_Series/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/Dhruv007211/DSA_Series/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhruv007211/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhruv007211/DSA_Series/tree/master/1480-running-sum-of-1d-array) |
 | [1537-get-the-maximum-score](https://github.com/Dhruv007211/DSA_Series/tree/master/1537-get-the-maximum-score) |
@@ -269,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Dhruv007211/DSA_Series/tree/master/0141-linked-list-cycle) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Dhruv007211/DSA_Series/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Dhruv007211/DSA_Series/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
