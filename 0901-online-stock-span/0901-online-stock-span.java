@@ -1,11 +1,11 @@
 class StockSpanner {
 
     // stack stores {price, span}
-    Stack<int[]> st;
+    ArrayList<Integer>ans;
 
     public StockSpanner() {
 
-        st = new Stack<>();
+       ans=new ArrayList<>();
     }
     
     public int next(int price) {
@@ -13,14 +13,18 @@ class StockSpanner {
         int span = 1;
 
         // remove smaller/equal prices
-        while(!st.isEmpty() &&
-              st.peek()[0] <= price) {
-
-            span += st.pop()[1];
-        }
+       for(int i=ans.size()-1;i>=0;i--){
+        if(ans.get(i)<=price)span++;
+else{
+    break;
+}
+       }
+            // span += st.pop()[1];
+            ans.add(price);
+        
 
         // push current price and span
-        st.push(new int[]{price, span});
+  
 
         return span;
     }
