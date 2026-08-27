@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -314,8 +315,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0700-search-in-a-binary-search-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
