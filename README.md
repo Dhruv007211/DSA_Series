@@ -325,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0700-search-in-a-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Dhruv007211/DSA_Series/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
