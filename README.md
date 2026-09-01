@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dhruv007211/DSA_Series/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Dhruv007211/DSA_Series/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Dhruv007211/DSA_Series/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Dhruv007211/DSA_Series/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv007211/DSA_Series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Dhruv007211/DSA_Series/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv007211/DSA_Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Dhruv007211/DSA_Series/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Dhruv007211/DSA_Series/tree/master/0078-subsets) |
 ## Queue
 |  |
 | ------- |
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv007211/DSA_Series/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Dhruv007211/DSA_Series/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
