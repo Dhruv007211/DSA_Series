@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Dhruv007211/DSA_Series/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Dhruv007211/DSA_Series/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Dhruv007211/DSA_Series/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Dhruv007211/DSA_Series/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv007211/DSA_Series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Dhruv007211/DSA_Series/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv007211/DSA_Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhruv007211/DSA_Series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Dhruv007211/DSA_Series/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Dhruv007211/DSA_Series/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Dhruv007211/DSA_Series/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Dhruv007211/DSA_Series/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Dhruv007211/DSA_Series/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/Dhruv007211/DSA_Series/tree/master/0394-decode-string) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Dhruv007211/DSA_Series/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Dhruv007211/DSA_Series/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Dhruv007211/DSA_Series/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Dhruv007211/DSA_Series/tree/master/0079-word-search) |
 ## Queue
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Dhruv007211/DSA_Series/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/Dhruv007211/DSA_Series/tree/master/0994-rotting-oranges) |
 ## Tree
 |  |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Dhruv007211/DSA_Series/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhruv007211/DSA_Series/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0104-maximum-depth-of-binary-tree) |
