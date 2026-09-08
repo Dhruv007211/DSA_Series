@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Dhruv007211/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhruv007211/DSA_Series/tree/master/1480-running-sum-of-1d-array) |
 | [1537-get-the-maximum-score](https://github.com/Dhruv007211/DSA_Series/tree/master/1537-get-the-maximum-score) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Dhruv007211/DSA_Series/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2029-stone-game-ix](https://github.com/Dhruv007211/DSA_Series/tree/master/2029-stone-game-ix) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dhruv007211/DSA_Series/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/Dhruv007211/DSA_Series/tree/master/2404-most-frequent-even-element) |
