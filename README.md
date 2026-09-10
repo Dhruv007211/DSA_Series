@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dhruv007211/DSA_Series/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0572-subtree-of-another-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dhruv007211/DSA_Series/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv007211/DSA_Series/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dhruv007211/DSA_Series/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Function
 |  |
 | ------- |
