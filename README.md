@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhruv007211/DSA_Series/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dhruv007211/DSA_Series/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv007211/DSA_Series/tree/master/3483-unique-3-digit-even-numbers) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Dhruv007211/DSA_Series/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Dhruv007211/DSA_Series/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhruv007211/DSA_Series/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhruv007211/DSA_Series/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Dhruv007211/DSA_Series/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhruv007211/DSA_Series/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv007211/DSA_Series/tree/master/3483-unique-3-digit-even-numbers) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Dhruv007211/DSA_Series/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Dhruv007211/DSA_Series/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
