@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv007211/DSA_Series/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Dhruv007211/DSA_Series/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhruv007211/DSA_Series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Dhruv007211/DSA_Series/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Dhruv007211/DSA_Series/tree/master/0836-rectangle-overlap) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv007211/DSA_Series/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Dhruv007211/DSA_Series/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Dhruv007211/DSA_Series/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dhruv007211/DSA_Series/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Dhruv007211/DSA_Series/tree/master/0394-decode-string) |
