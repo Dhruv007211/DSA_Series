@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Dhruv007211/DSA_Series/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Dhruv007211/DSA_Series/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Dhruv007211/DSA_Series/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Dhruv007211/DSA_Series/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2029-stone-game-ix](https://github.com/Dhruv007211/DSA_Series/tree/master/2029-stone-game-ix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dhruv007211/DSA_Series/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Dhruv007211/DSA_Series/tree/master/3783-mirror-distance-of-an-integer) |
@@ -396,4 +397,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Dhruv007211/DSA_Series/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Dhruv007211/DSA_Series/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
