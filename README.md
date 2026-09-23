@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Dhruv007211/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhruv007211/DSA_Series/tree/master/1480-running-sum-of-1d-array) |
 | [1537-get-the-maximum-score](https://github.com/Dhruv007211/DSA_Series/tree/master/1537-get-the-maximum-score) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhruv007211/DSA_Series/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dhruv007211/DSA_Series/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dhruv007211/DSA_Series/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2029-stone-game-ix](https://github.com/Dhruv007211/DSA_Series/tree/master/2029-stone-game-ix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Dhruv007211/DSA_Series/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Dhruv007211/DSA_Series/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhruv007211/DSA_Series/tree/master/1331-rank-transform-of-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhruv007211/DSA_Series/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2404-most-frequent-even-element](https://github.com/Dhruv007211/DSA_Series/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhruv007211/DSA_Series/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv007211/DSA_Series/tree/master/3483-unique-3-digit-even-numbers) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Dhruv007211/DSA_Series/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv007211/DSA_Series/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv007211/DSA_Series/tree/master/0904-fruit-into-baskets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhruv007211/DSA_Series/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhruv007211/DSA_Series/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv007211/DSA_Series/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Dhruv007211/DSA_Series/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhruv007211/DSA_Series/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhruv007211/DSA_Series/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhruv007211/DSA_Series/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhruv007211/DSA_Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dhruv007211/DSA_Series/tree/master/0035-search-insert-position) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhruv007211/DSA_Series/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dhruv007211/DSA_Series/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## String Matching
 |  |
